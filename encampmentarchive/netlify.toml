@@ -1,3 +1,3 @@
 [build]
-    base = "frontend/"
-    command = "npm start"
+    base = "encampmentarchive/"
+    command = "npm run build"
