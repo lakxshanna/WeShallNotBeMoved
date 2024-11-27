@@ -1,5 +1,5 @@
 import React from 'react'
-import video from '/Users/lakxshanna/Documents/WeShallNotBeMoved/encampmentarchive/src/DSC_0286.mp4'
+import video from 'encampmentarchive/src/images/DSC_0286.mp4'
 
 const Landing = () => {
   return (
