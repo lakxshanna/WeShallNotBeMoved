@@ -1,9 +1,9 @@
 [build]
-    base = "encampmentarchive/"
-    command = "npm run build"
+command = "npm run build"
+publish = "encampmentarchive/build"
 
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-  force = false
+from = "/*"
+to = "/index.html"
+status = 200
+force = false
